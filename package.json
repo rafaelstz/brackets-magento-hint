@@ -1,9 +1,10 @@
 {
   "name": "brackets-mg-functions-hint",
-  "title": "Brackets Magento Hint",
-  "description": "Brackets Magento Hint - plugin for Brackets, which will help you in writing Magento Themes",
+  "title": "Magento Hint",
+  "description": "Ideal for developing Magento themes, get hints of the main functions, classes and methods.",
   "homepage": "https://github.com/rafaelstz/brackets-magento-hint",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "categories": "snippets",
   "author": "Rafael Correa Gomes (http://github.com/rafaelstz)",
   "license": "MIT",
   "keywords": [
@@ -16,7 +17,7 @@
 	"i18n": ["en", "pt"],
 	"package-i18n":{
 		"pt": {
-			"description": "Brackets Magento Hint - Ideal para desenvolvimento Magento!"
+			"description": "Ideal para desenvolvimento de temas Magento, obtenha sugestões das principais funções, classes e métodos."
 		}
 	},
   "engines": {
