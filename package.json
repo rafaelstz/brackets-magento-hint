@@ -5,7 +5,11 @@
   "homepage": "https://github.com/rafaelstz/brackets-magento-hint",
   "version": "1.0.2",
   "categories": "snippets",
-  "author": "Rafael Correa Gomes (http://github.com/rafaelstz)",
+  "author": {
+    "name": "Rafael Corrêa Gomes",
+    "email": "rafaelcgstz@gmail.com",
+    "url": "http://github.com/rafaelstz"
+  },
   "license": "MIT",
   "keywords": [
     "magento",
