@@ -109,10 +109,17 @@ require_once('app/Mage.php');
 get_class($object)
 get_class_methods($class_name)
 Zend_Debug::dump($thing_to_debug, 'debug')
+->debug()
+$object->debug()
 var_dump();
+var_dump($_product->debug());
 print_r()
 foreach(){}
+if () {}
+foreach:
+endforeach;
 endwhile;
 endif;
 
+$_product->debug()
 $_product->isSaleable()
