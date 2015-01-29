@@ -41,6 +41,7 @@
 ->getUsedProductCollection()->addAttributeToSelect('*')
 ->getUsedProductCollection()->addAttributeToSelect('*')->addFilterByRequiredOptions()
 ->toHtml()
+->debug()
 
 Mage::log('Your Log Message', Zend_Log::INFO, 'your_log_file.log')
 Mage::getSingleton()
@@ -109,8 +110,6 @@ require_once('app/Mage.php');
 get_class($object)
 get_class_methods($class_name)
 Zend_Debug::dump($thing_to_debug, 'debug')
-->debug()
-$object->debug()
 var_dump();
 var_dump($_product->debug());
 print_r()
@@ -121,5 +120,6 @@ endforeach;
 endwhile;
 endif;
 
+$object->debug()
 $_product->debug()
 $_product->isSaleable()
