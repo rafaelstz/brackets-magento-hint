@@ -42,6 +42,10 @@
 ->getUsedProductCollection()->addAttributeToSelect('*')->addFilterByRequiredOptions()
 ->toHtml()
 ->debug()
+->helper('customer')
+->helper('customer')->isLoggedIn()
+
+Mage::getStoreConfig()
 
 Mage::log('Your Log Message', Zend_Log::INFO, 'your_log_file.log')
 Mage::getSingleton()
