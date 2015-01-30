@@ -3,7 +3,7 @@
   "title": "Magento Hint",
   "description": "Ideal for developing Magento themes, get hints of the main functions, classes and methods.",
   "homepage": "https://github.com/rafaelstz/brackets-magento-hint",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "categories": "snippets",
   "author": {
     "name": "Rafael Corrêa Gomes",
