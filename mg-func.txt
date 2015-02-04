@@ -1,3 +1,5 @@
+this->
+
 ->getBaseUrl()
 ->getSkinUrl()
 ->getChildHtml()
