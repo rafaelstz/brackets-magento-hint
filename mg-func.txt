@@ -74,6 +74,8 @@ Mage::getSingleton()
 Mage::getSingleton('checkout/session')
 
 Mage::getModel()
+Mage::getModel("catalog/category")
+Mage::getModel("catalog/category")->load()
 Mage::getModel('catalog/product')
 Mage::getModel('catalog/product')->load()
 Mage::getModel('catalog/product')->loadByAttribute()
