@@ -1,4 +1,4 @@
-**Brackets Magento Hint** [![Talk.ai](https://img.shields.io/badge/Release-1.0.8-green.svg)](https://github.com/rafaelstz/brackets-magento-hint/releases)
+**Brackets Magento Hint** [![Talk.ai](https://img.shields.io/badge/Release-1.0.9-green.svg)](https://github.com/rafaelstz/brackets-magento-hint/releases)
 ---------------------------------------
 
 Ideal for developing Magento themes, get hints of the main functions, classes and methods. This plugin will greatly facilitate the development, mainly on the frontend. He suggests methods, built-in functions and classes Magento quickly and easily, it besides being open has a very simple way of contribution to customize your way.
