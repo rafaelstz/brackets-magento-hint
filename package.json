@@ -47,9 +47,5 @@
       "pt": {
         "description": "Ideal para desenvolvimento de temas Magento, obtenha sugestões das principais funções, classes e métodos."
 		}
-	},
-  "engines": {
-    "brackets": ">=0.41.0"
-  }
-
+	}
 }
