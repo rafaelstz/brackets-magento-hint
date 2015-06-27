@@ -6,10 +6,8 @@ define(function (require, exports, module) {
 
 	var AppInit             = brackets.getModule("utils/AppInit"),
 		CodeHintManager     = brackets.getModule("editor/CodeHintManager"),
-		LanguageManager     = brackets.getModule("language/LanguageManager");
-
-		var AppInit = brackets.getModule('utils/AppInit'),
-		MGfuncHint = require('text!mg-func.txt');
+		LanguageManager     = brackets.getModule("language/LanguageManager" ),
+		MGfuncHint          = require('text!mg-func.txt');
 
 	var lastLine,
 		lastFileName,
