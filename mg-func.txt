@@ -3,6 +3,7 @@ this->
 ->getSkinUrl()
 ->getChildHtml()
 ->escapeHtml()
+->getFormActionUrl()
 ->getLayout()
 ->getLayout()->createBlock('cms/block')
 ->getLayout()->createBlock('cms/block')->setBlockId('block-name')
