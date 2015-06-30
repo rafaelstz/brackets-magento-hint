@@ -18,6 +18,15 @@
     "php",
     "hint"
   ],
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-jslint": "latest",
+    "grunt-lesslint": "latest",
+    "grunt-jscs": "latest",
+    "grunt-zip": "latest",
+    "grunt-lineending": "latest"
+  },
 	"i18n": ["en", "de", "fr", "it", "es", "pt"],
 	"package-i18n":{
       "en": {
