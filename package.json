@@ -1,6 +1,7 @@
 {
   "name": "brackets-mg-functions-hint",
   "title": "Magento Hint",
+  "engines": { "brackets": ">=1.2.0" },
   "description": "Ideal for developing Magento themes, get hints of the main functions, classes and methods.",
   "homepage": "https://github.com/rafaelstz/brackets-magento-hint",
   "version": "1.0.9",
