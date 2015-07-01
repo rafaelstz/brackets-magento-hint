@@ -16,13 +16,7 @@
   "url": "https://github.com/rafaelstz/brackets-magento-hint"
 } ,
   "license": "MIT",
-  "keywords": [
-    "magento",
-    "magneto",
-    "zend",
-    "php",
-    "hint"
-  ],
+  "keywords": ["magento", "magneto", "zend", "php", "hint"],
   "devDependencies": {
     "grunt": "latest",
     "grunt-contrib-jshint": "latest",
