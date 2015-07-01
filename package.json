@@ -5,6 +5,7 @@
   "homepage": "https://github.com/rafaelstz/brackets-magento-hint",
   "version": "1.0.9",
   "categories": "snippets",
+  "bugs": "https://github.com/zaggino/brackets-magento-hint/issues",
   "author": {
     "name": "Rafael Corrêa Gomes",
     "email": "rafaelcgstz@gmail.com",
