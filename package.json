@@ -20,6 +20,12 @@
   ],
 	"i18n": ["en", "de", "fr", "it", "pt", "zh-cn"],
 	"package-i18n":{
+      "de": {
+        "description": "Ideal für die Entwicklung von Magento themes, bekommen Hinweise auf die wichtigsten Funktionen, Klassen und Methoden."
+      },
+      "fr": {
+        "description": "Idéal pour le développement de thèmes de Magento, obtenir des indices sur les fonctions principales, classes et méthodes."
+      },
       "it": {
         "description": "Ideale per lo sviluppo di temi Magento, ottenere suggerimenti delle funzioni principali, classi e metodi."
       },
