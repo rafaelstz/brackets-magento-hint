@@ -18,9 +18,9 @@
     "php",
     "hint"
   ],
-	"i18n": ["en", "en-gb", "de", "fr", "it", "pt-br", "zh-cn"],
+	"i18n": ["en", "de", "fr", "it", "pt", "zh-cn"],
 	"package-i18n":{
-		"pt": {
+      "pt": {
 			"description": "Ideal para desenvolvimento de temas Magento, obtenha sugestões das principais funções, classes e métodos."
 		}
 	},
