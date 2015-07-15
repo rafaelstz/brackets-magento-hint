@@ -1,7 +1,5 @@
 /* Author Rafael Corrêa Gomes */
 /* https://github.com/rafaelstz */
-/*jslint vars: true, plusplus: true, devel: true, nomen: true, indent: 4, maxerr: 50, regexp: true */
-/*global define, brackets, $, window */
 
 define(function (require, exports, module) {
 	"use strict";
