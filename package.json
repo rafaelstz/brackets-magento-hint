@@ -4,7 +4,7 @@
   "engines": { "brackets": ">=1.2.0" },
   "description": "Ideal for developing Magento themes, get hints of the main functions, classes and methods.",
   "homepage": "https://github.com/rafaelstz/brackets-magento-hint",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "categories": "snippets",
   "bugs": "https://github.com/zaggino/brackets-magento-hint/issues",
   "author": {
