@@ -1,6 +1,7 @@
 this->
 ->getBaseUrl()
 ->getSkinUrl()
+->getCartUrl()
 ->getChildHtml()
 ->escapeHtml()
 ->getFormActionUrl()
@@ -103,6 +104,7 @@ Mage::helper('core/url')->getCurrentUrl()
 Mage::helper('checkout/cart')
 Mage::helper('checkout/cart')->getCart()
 Mage::helper('checkout/cart')->getCart()->getItemsCount()
+Mage::helper('checkout/cart')->getCartUrl()
 
 Mage::getBaseUrl()
 Mage::getBaseUrl(Mage_Core_Model_Store::URL_TYPE_WEB)
